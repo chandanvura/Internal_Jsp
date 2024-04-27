@@ -1,0 +1,106 @@
+Write a programme to print Nth prime number.Take N value from user
+
+input:-4
+output:-7
+
+input:-6
+output:-13
+
+*********************************************************************************************************
+Question 2 :
+Write a program to print true if the Number given is Armstrong number otherwise
+false.
+An Armstrong number is a positive m-digit number that is equal to the sum of the rnth powers
+of their digits. It is also known as pluperfect, or Plus Perfect, or Narcissistic number.
+input-153
+output-true
+explanation : 13 + 53 + 33 = 1 + 125+ 27 = 153
+
+
+input-125
+output-false
+explanation: 13 + 23 + 53 = 1 + 8 + 125 =134 (Not an Armstrong Number)
+
+*******************************************************************************************************************
+ q-3)Write a program to print the first n terms of the Fibonacci series. take n value from
+
+the user.
+
+input-4
+output-
+0
+1
+1
+2
+
+input-10
+output:-
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+******************************************************************************************************
+
+
+Question 4 : WAPTP true if the number is a bouncy number otherwise false.
+A positive integer that is neither an increasing nor decreasing number is
+called a bouncy number. It means they bounce between increasing and
+decreasing. In other words, we can say that if the digits of the number are
+unsorted.
+
+
+input-345
+output-false
+
+
+input-345623
+output-true
+
+***************************************************************************************************************
+
+Question 5 :
+WAPTP nth largest digit in the given number.
+input1:4326
+input2:-3
+output-3
+
+
+input1:-45672
+input2:-2
+output-6
+
+
+*************************************************************************************************************
+
+Question 6 :
+WAPTP binary value of the given integer.
+input:13
+output:1101
+
+
+input:4
+output:100
+
+****************************************************************************************************************
+
+Question 7 : Write a program to print Pascal triangle with 6 rows in it.
+*****************************************************************************************************************
+
+Question 8 :
+Write a program to print the smallest digit raised to the power largest digit in the
+given number.
+
+input 2345
+output:32
+explanation: The smallest digit is 2, the largest digit is 5. so 2A5 is 32.
+
+
+input 214
+output:l
+explanation: The smallest digit is 1, the largest digit is 4. so IA4 is I.
