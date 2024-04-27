@@ -1,0 +1,12 @@
+1)waqtd names of an employees whose name starts with vowels?
+2)waqtd location if the Department name starts with consonats
+3)waqtd salary and hiredate of an employee who are hitred between 84 and 88 into department 20 excluding salesman;
+4)  waqtd annual salary half term salary and monthly salary of all the employees who are earning montly salary in the range of 1500 to 3500 and half term salary between 1000 and 4500
+5)waqtd deatils of the emp who are earning sal but not comm 
+6)waqtd all the deatils along with the half term sal for all the emp who are working in dept 10 or 20 and having charc "m" in their name
+7)waqtd mgr and deptno for all the employees who are hired in march and earning annual salary between 12000 and 18000?
+8)waqtd list of employee if the employee is working as clerck in dept no 20 and earning comm
+9)waqtd deatils of the employee whoes name doesnt ends with consonats
+10)waqtd emp name who earns 5000 in department 10 and working as president;
+11)waqtd sal and comm for all the emp who are earning sal less than 1000 and more than 3000(using special op)
+12)waqtd emp number who are having mgr in department 20,30
